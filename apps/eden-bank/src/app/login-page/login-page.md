@@ -15,4 +15,6 @@
  - [ ] Naming
  - [ ] Bad flows/ happy flow
 
+# Account page 
+## 
 
